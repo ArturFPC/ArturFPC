@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @ArturFPC
-- 👀 I’m interested in the area of technology, having as main focus the programming
-- 🌱 I am currently a computer engineer graduated from IFMG Campus Bambuí
-- 💞️ My work dream is to be a DEV in big technology companies like Google or SpaceX
-- 📫 How to reach me: my number is +55 (37) 998612007
+👋 Hi, I'm Artur Francisco!
+
+💻 I'm a Full Stack Software Developer passionate about building scalable applications and learning new technologies.
+
+🎓 Bachelor's degree in Computer Engineering and Technical Diploma in Computer Science from IFMG – Bambuí Campus.
+
+🚀 I'm interested in Software Engineering, Backend Development, Mobile Development, Artificial Intelligence, and Cloud Computing.
+
+🌱 I'm constantly improving my skills and exploring new technologies.
+
+🎯 My goal is to work as a Software Engineer at leading technology companies such as Google, Amazon, Microsoft, or SpaceX.
+
+📫 How to reach me:
+- LinkedIn: https://www.linkedin.com/in/artur-fpc/
+- Email: arturfpc@gmail.com
 
 <!---
 ArturFPC/ArturFPC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
